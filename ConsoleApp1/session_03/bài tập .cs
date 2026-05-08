@@ -63,7 +63,7 @@ namespace ConsoleApp1.session_03
             Console.WriteLine("The tich hinh cau: " + volume);
         }
 
-        public static void Main(string[] args)
+        public static void Main3(string[] args)
         {
         }
     }
